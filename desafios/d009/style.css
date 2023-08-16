@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(43, 42, 42, 0.856);
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(226, 255, 255);
+ 
+}
+
+p{
+    color: rgb(226, 255, 255);
+    
+}
+
+a{
+    color: aqua;
+  
+}
+
