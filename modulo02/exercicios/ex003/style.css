@@ -24,7 +24,10 @@ body{
 
 }
 
-
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
 
 h1{
     font-family: 'Great Vibes';
